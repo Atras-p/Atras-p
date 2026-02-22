@@ -1,8 +1,8 @@
 - 👋 HELLOOOOO, I'm ATRAS!! :D
 - 👀 I’m interested in Game development, and everything that revolves around!
-- 🌱 I’m currently learning C# and GameMakerLanguage, but soon to learn more!!!
-- 💞️ I’m looking to collaborate on whomever the occasion may bring...
-- 📫 How to reach me currently only on my art account on X, @AtrasDrawss
+- 🌱 I currently know entry-level C#, bits of C++ and currently learning GDScript, but soon to learn more!!!
+- 💞️ I’m looking to collaborate with whomever the occasion may bring...
+- 📫 How to reach me currently: Discord as @novaa.atras
 - 😄 Pronouns: ALL OF THEMM!!! (pls use every non-neo pronoun...)
 - ⚡ Fun fact: You have to drink water ;D (i'm not giving you a choice, go drink water)
 
