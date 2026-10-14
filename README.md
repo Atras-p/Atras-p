@@ -1,6 +1,6 @@
 - 👋 HELLOOOOO, I'm ATRAS!! :D
 - 👀 I’m interested in Game development, and everything that revolves around!
-- 🌱 I currently know entry-level C#, bits of C++ and currently learning GDScript, but soon to learn more!!!
+- 🌱 I currently know entry-level C#, C++ and currently learning GDScript, but soon to learn more!!!
 - 💞️ I’m looking to collaborate with whomever the occasion may bring...
 - 📫 How to reach me currently: Discord as @novaa.atras
 - 😄 Pronouns: ALL OF THEMM!!! (pls use every non-neo pronoun...)
